@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AnugrahMassey, I'm passionate about coding and creating meaningful software solutions. I believe in technology's power to positively shape the world.
+- 👋 Hi, I’m Anugrah Massey, I'm passionate about coding and creating meaningful software solutions. I believe in technology's power to positively shape the world.
 
 - 👀 I’m interested in web development, open-source projects, and exploring new technologies. I enjoy working on frontend and backend projects that challenge and allow me to learn and grow.
 
